@@ -1,0 +1,5 @@
+Artefact/
+har-classifier/
+*.h5
+__pycache__/
+.ipynb_checkpoints/
